@@ -4,6 +4,6 @@ I’m Jazz. I used to fix teeth, now I fix bugs.
 
 - 🧠Learning GSAP.<br>
 - 💥Debugging life, one meal at a time.
-- Flossing advocate 
+- 🦷Flossing advocate 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazxbx&layout=compact)
